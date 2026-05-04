@@ -1,0 +1,184 @@
+6.9s 1 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+6.9s 2 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+6.9s 3 0.00s - to python to disable frozen modules.
+6.9s 4 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+7.6s 5 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+7.6s 6 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+7.6s 7 0.00s - to python to disable frozen modules.
+7.6s 8 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+11.7s 9 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.8/7.8 MB 62.0 MB/s eta 0:00:00
+11.9s 10 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.8/7.8 MB 62.0 MB/s eta 0:00:00
+17.7s 11 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 57.3/57.3 kB 4.0 MB/s eta 0:00:00
+17.9s 12 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 57.3/57.3 kB 4.0 MB/s eta 0:00:00
+18.3s 13 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.3/5.3 MB 99.8 MB/s eta 0:00:00
+18.3s 14 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 935.6/935.6 kB 53.7 MB/s eta 0:00:00
+18.4s 15 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 167.9/167.9 kB 11.9 MB/s eta 0:00:00
+18.4s 16 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.5/2.5 MB 77.2 MB/s eta 0:00:00
+18.5s 17 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 154.8/154.8 kB 10.4 MB/s eta 0:00:00
+18.5s 18 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.3/5.3 MB 99.8 MB/s eta 0:00:00
+18.5s 19 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 935.6/935.6 kB 53.7 MB/s eta 0:00:00
+18.5s 20 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 167.9/167.9 kB 11.9 MB/s eta 0:00:00
+18.5s 21 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.5/2.5 MB 77.2 MB/s eta 0:00:00
+18.5s 22 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 154.8/154.8 kB 10.4 MB/s eta 0:00:00
+18.5s 23 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.2/2.2 MB 39.0 MB/s eta 0:00:00
+18.6s 24 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.9/8.9 MB 108.7 MB/s eta 0:00:00
+18.7s 25 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.2/2.2 MB 39.0 MB/s eta 0:00:00
+18.7s 26 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.9/8.9 MB 108.7 MB/s eta 0:00:00
+27.6s 27 All packages installed.
+50.8s 28 Torch: 2.10.0+cu128 | CUDA: True
+50.8s 29 Config loaded. TRIAL = False | Device: cuda
+51.0s 30 === RAW FILE PREVIEW (first 10 lines) ===
+51.0s 31 [0] '[INFO] COD10K-CAM-1-Aquatic-1-BatFish-1.png 1'
+51.0s 32 [1] 'CAM/Aquatic/BatFish 112 203 552 239 red'
+51.0s 33 [2] '[INFO] COD10K-CAM-1-Aquatic-1-BatFish-3.png 1'
+51.0s 34 [3] 'CAM/Aquatic/BatFish 96 60 543 430 red'
+51.0s 35 [4] '[INFO] COD10K-CAM-1-Aquatic-1-BatFish-7.png 1'
+51.0s 36 [5] 'CAM/Aquatic/BatFish 212 222 262 112 red'
+51.0s 37 [6] '[INFO] COD10K-CAM-1-Aquatic-1-BatFish-8.png 1'
+51.0s 38 [7] 'CAM/Aquatic/BatFish 70 40 314 558 red'
+51.0s 39 [8] '[INFO] COD10K-CAM-1-Aquatic-1-BatFish-9.png 1'
+51.0s 40 [9] 'CAM/Aquatic/BatFish 63 152 494 269 red'
+51.0s 41 ... total lines: 9534
+51.0s 42 
+51.0s 43 Train cam_map: 6000 entries | CAM=3534 NonCAM=2466
+51.0s 44 Test  cam_map: 4000 entries  | CAM=2365 NonCAM=1635
+51.5s 45 Train: 6000 | Val: 4000
+51.5s 46 CLS Train: 6000 | CLS Val: 4000
+59.1s 47 CAMClassifier params: 24.981698 M
+59.3s 48 Sanitized Train labels: {0, 1}
+59.3s 49 Sanitized Test labels: {0, 1}
+59.4s 50 Dataloaders rebuilt with safe binary labels!
+59.4s 51 === STAGE 1: CAM/NonCAM Classifier Training ===
+190.7s 52 [CLS Ep 01] tr_loss=0.3822 tr_acc=0.8298 | vl_loss=0.2331 vl_acc=0.9103
+190.7s 53 → Saved best classifier (acc=0.9103)
+309.6s 54 [CLS Ep 02] tr_loss=0.2558 tr_acc=0.8937 | vl_loss=0.2017 vl_acc=0.9137
+309.6s 55 → Saved best classifier (acc=0.9137)
+427.5s 56 [CLS Ep 03] tr_loss=0.2275 tr_acc=0.9100 | vl_loss=0.1754 vl_acc=0.9313
+427.5s 57 → Saved best classifier (acc=0.9313)
+546.0s 58 [CLS Ep 04] tr_loss=0.1953 tr_acc=0.9223 | vl_loss=0.2262 vl_acc=0.9097
+546.0s 59 [EarlyStopping] No improvement for 1/7 epochs.
+663.9s 60 [CLS Ep 05] tr_loss=0.1663 tr_acc=0.9300 | vl_loss=0.1850 vl_acc=0.9263
+663.9s 61 [EarlyStopping] No improvement for 2/7 epochs.
+781.6s 62 [CLS Ep 06] tr_loss=0.1367 tr_acc=0.9455 | vl_loss=0.1866 vl_acc=0.9330
+781.6s 63 → Saved best classifier (acc=0.9330)
+898.5s 64 [CLS Ep 07] tr_loss=0.1284 tr_acc=0.9482 | vl_loss=0.1889 vl_acc=0.9270
+898.5s 65 [EarlyStopping] No improvement for 1/7 epochs.
+1015.1s 66 [CLS Ep 08] tr_loss=0.1053 tr_acc=0.9588 | vl_loss=0.2318 vl_acc=0.9237
+1015.1s 67 [EarlyStopping] No improvement for 2/7 epochs.
+1131.6s 68 [CLS Ep 09] tr_loss=0.0942 tr_acc=0.9630 | vl_loss=0.2087 vl_acc=0.9380
+1131.6s 69 → Saved best classifier (acc=0.9380)
+1248.6s 70 [CLS Ep 10] tr_loss=0.0768 tr_acc=0.9702 | vl_loss=0.2621 vl_acc=0.9343
+1248.6s 71 [EarlyStopping] No improvement for 1/7 epochs.
+1365.1s 72 [CLS Ep 11] tr_loss=0.0655 tr_acc=0.9753 | vl_loss=0.2301 vl_acc=0.9410
+1365.1s 73 → Saved best classifier (acc=0.9410)
+1482.4s 74 [CLS Ep 12] tr_loss=0.0592 tr_acc=0.9760 | vl_loss=0.2164 vl_acc=0.9370
+1482.4s 75 [EarlyStopping] No improvement for 1/7 epochs.
+1598.7s 76 [CLS Ep 13] tr_loss=0.0440 tr_acc=0.9840 | vl_loss=0.2974 vl_acc=0.9377
+1598.7s 77 [EarlyStopping] No improvement for 2/7 epochs.
+1716.2s 78 [CLS Ep 14] tr_loss=0.0419 tr_acc=0.9825 | vl_loss=0.2868 vl_acc=0.9395
+1716.2s 79 [EarlyStopping] No improvement for 3/7 epochs.
+1832.6s 80 [CLS Ep 15] tr_loss=0.0344 tr_acc=0.9870 | vl_loss=0.2586 vl_acc=0.9410
+1832.6s 81 [EarlyStopping] No improvement for 4/7 epochs.
+1948.9s 82 [CLS Ep 16] tr_loss=0.0289 tr_acc=0.9897 | vl_loss=0.2792 vl_acc=0.9405
+1948.9s 83 [EarlyStopping] No improvement for 5/7 epochs.
+2065.8s 84 [CLS Ep 17] tr_loss=0.0256 tr_acc=0.9905 | vl_loss=0.2801 vl_acc=0.9407
+2065.8s 85 [EarlyStopping] No improvement for 6/7 epochs.
+2183.7s 86 [CLS Ep 18] tr_loss=0.0195 tr_acc=0.9933 | vl_loss=0.2818 vl_acc=0.9417
+2183.7s 87 → Saved best classifier (acc=0.9417)
+2301.3s 88 [CLS Ep 19] tr_loss=0.0195 tr_acc=0.9923 | vl_loss=0.2870 vl_acc=0.9423
+2301.3s 89 → Saved best classifier (acc=0.9423)
+2418.8s 90 [CLS Ep 20] tr_loss=0.0207 tr_acc=0.9923 | vl_loss=0.2864 vl_acc=0.9420
+2418.8s 91 [EarlyStopping] No improvement for 1/7 epochs.
+2418.8s 92 Classifier training done. Best val acc: 0.94225
+2472.8s 93 Best classifier loaded from /kaggle/working/checkpoints/best_cls.pth
+2477.8s 94 PVTv2-B4 channels: [64, 128, 320, 512]
+2478.4s 95 HQCM mode: Quantum
+2480.3s 96 QFE-COD params: 62.51M
+2483.3s 97 SINetV2 params: 23.90733 M
+2483.5s 98 Losses and metrics ready.
+2483.7s 99 === STAGE 2: QFE-COD + SINetV2 Joint Training ===
+2483.7s 100 Epochs: 50 | BS: 4 | Early stopping patience: 10
+3909.1s 101 [Ep 01] QFE loss=1.2129 vl=0.8652 Dice=0.5788 IoU=0.5196 | SIN loss=1.3060 vl=0.9959 Dice=0.4671 (1425s)
+3909.4s 102 → QFE best saved (Dice=0.5788)
+3909.4s 103 → SINet best saved (Dice=0.4671)
+5306.9s 104 [Ep 02] QFE loss=0.8751 vl=0.8025 Dice=0.6010 IoU=0.5435 | SIN loss=0.9811 vl=0.8959 Dice=0.5105 (1397s)
+5307.5s 105 → QFE best saved (Dice=0.6010)
+5307.7s 106 → SINet best saved (Dice=0.5105)
+6701.1s 107 [Ep 03] QFE loss=0.8310 vl=0.7860 Dice=0.6069 IoU=0.5492 | SIN loss=0.9335 vl=0.8920 Dice=0.4419 (1392s)
+6701.6s 108 → QFE best saved (Dice=0.6069)
+6702.0s 109 [EarlyStopping] No improvement for 1/10 epochs.
+8092.6s 110 [Ep 04] QFE loss=0.8038 vl=0.7728 Dice=0.5885 IoU=0.5319 | SIN loss=0.9121 vl=0.8791 Dice=0.5168 (1390s)
+8092.8s 111 → SINet best saved (Dice=0.5168)
+8093.3s 112 [EarlyStopping] No improvement for 1/10 epochs.
+9496.9s 113 [Ep 05] QFE loss=0.7895 vl=0.7951 Dice=0.6794 IoU=0.6231 | SIN loss=0.8958 vl=0.8288 Dice=0.6196 (1403s)
+9497.3s 114 → QFE best saved (Dice=0.6794)
+9497.5s 115 → SINet best saved (Dice=0.6196)
+10916.7s 116 [Ep 06] QFE loss=0.7750 vl=0.7445 Dice=0.7200 IoU=0.6654 | SIN loss=0.8847 vl=0.8248 Dice=0.5759 (1418s)
+10917.4s 117 → QFE best saved (Dice=0.7200)
+10918.1s 118 [EarlyStopping] No improvement for 1/10 epochs.
+12337.8s 119 [Ep 07] QFE loss=0.7562 vl=0.7550 Dice=0.7152 IoU=0.6607 | SIN loss=0.8729 vl=0.8277 Dice=0.6200 (1419s)
+12338.0s 120 → SINet best saved (Dice=0.6200)
+12338.6s 121 [EarlyStopping] No improvement for 1/10 epochs.
+13775.6s 122 [Ep 08] QFE loss=0.7527 vl=0.7669 Dice=0.7474 IoU=0.6938 | SIN loss=0.8677 vl=0.8106 Dice=0.6306 (1437s)
+13776.1s 123 → QFE best saved (Dice=0.7474)
+13776.3s 124 → SINet best saved (Dice=0.6306)
+15231.6s 125 [Ep 09] QFE loss=0.7540 vl=0.7679 Dice=0.7019 IoU=0.6480 | SIN loss=0.8589 vl=0.8138 Dice=0.6177 (1454s)
+15232.0s 126 [EarlyStopping] No improvement for 1/10 epochs.
+15232.0s 127 [EarlyStopping] No improvement for 1/10 epochs.
+16673.0s 128 [Ep 10] QFE loss=0.7365 vl=0.7610 Dice=0.6971 IoU=0.6430 | SIN loss=0.8494 vl=0.8209 Dice=0.6397 (1441s)
+16673.1s 129 → SINet best saved (Dice=0.6397)
+16673.7s 130 [EarlyStopping] No improvement for 2/10 epochs.
+18132.0s 131 [Ep 11] QFE loss=0.7373 vl=0.7457 Dice=0.7000 IoU=0.6468 | SIN loss=0.8447 vl=0.8084 Dice=0.6751 (1458s)
+18132.1s 132 → SINet best saved (Dice=0.6751)
+18132.8s 133 [EarlyStopping] No improvement for 3/10 epochs.
+19611.5s 134 [Ep 12] QFE loss=0.7221 vl=0.7533 Dice=0.6961 IoU=0.6440 | SIN loss=0.8380 vl=0.7977 Dice=0.6001 (1478s)
+19612.0s 135 [EarlyStopping] No improvement for 4/10 epochs.
+19612.0s 136 [EarlyStopping] No improvement for 1/10 epochs.
+21034.9s 137 [Ep 13] QFE loss=0.7238 vl=0.7442 Dice=0.7501 IoU=0.6981 | SIN loss=0.8312 vl=0.8179 Dice=0.6826 (1423s)
+21035.4s 138 → QFE best saved (Dice=0.7501)
+21035.4s 139 → SINet best saved (Dice=0.6826)
+22421.5s 140 [Ep 14] QFE loss=0.7124 vl=0.7493 Dice=0.7340 IoU=0.6822 | SIN loss=0.8225 vl=0.7944 Dice=0.5722 (1385s)
+22422.0s 141 [EarlyStopping] No improvement for 1/10 epochs.
+22422.0s 142 [EarlyStopping] No improvement for 1/10 epochs.
+23811.9s 143 [Ep 15] QFE loss=0.7147 vl=0.7386 Dice=0.7434 IoU=0.6923 | SIN loss=0.8222 vl=0.7945 Dice=0.6255 (1390s)
+23812.4s 144 [EarlyStopping] No improvement for 2/10 epochs.
+23812.4s 145 [EarlyStopping] No improvement for 2/10 epochs.
+25232.1s 146 [Ep 16] QFE loss=0.7008 vl=0.7474 Dice=0.7243 IoU=0.6724 | SIN loss=0.8177 vl=0.7936 Dice=0.6202 (1419s)
+25232.7s 147 [EarlyStopping] No improvement for 3/10 epochs.
+25232.7s 148 [EarlyStopping] No improvement for 3/10 epochs.
+26649.9s 149 [Ep 17] QFE loss=0.7006 vl=0.7402 Dice=0.7350 IoU=0.6833 | SIN loss=0.8118 vl=0.8072 Dice=0.6610 (1417s)
+26650.3s 150 [EarlyStopping] No improvement for 4/10 epochs.
+26650.3s 151 [EarlyStopping] No improvement for 4/10 epochs.
+28139.1s 152 [Ep 18] QFE loss=0.6939 vl=0.7346 Dice=0.7397 IoU=0.6880 | SIN loss=0.8062 vl=0.8078 Dice=0.6610 (1489s)
+28139.8s 153 [EarlyStopping] No improvement for 5/10 epochs.
+28139.8s 154 [EarlyStopping] No improvement for 5/10 epochs.
+29575.4s 155 [Ep 19] QFE loss=0.6866 vl=0.7417 Dice=0.7292 IoU=0.6787 | SIN loss=0.8016 vl=0.7917 Dice=0.6324 (1435s)
+29575.9s 156 [EarlyStopping] No improvement for 6/10 epochs.
+29575.9s 157 [EarlyStopping] No improvement for 6/10 epochs.
+31012.4s 158 [Ep 20] QFE loss=0.6883 vl=0.7399 Dice=0.7165 IoU=0.6662 | SIN loss=0.8018 vl=0.8024 Dice=0.6529 (1436s)
+31012.9s 159 [EarlyStopping] No improvement for 7/10 epochs.
+31012.9s 160 [EarlyStopping] No improvement for 7/10 epochs.
+32495.9s 161 [Ep 21] QFE loss=0.6801 vl=0.7363 Dice=0.7275 IoU=0.6763 | SIN loss=0.7964 vl=0.7989 Dice=0.6522 (1483s)
+32496.5s 162 [EarlyStopping] No improvement for 8/10 epochs.
+32496.5s 163 [EarlyStopping] No improvement for 8/10 epochs.
+33981.5s 164 [Ep 22] QFE loss=0.6732 vl=0.7304 Dice=0.7789 IoU=0.7288 | SIN loss=0.7956 vl=0.7999 Dice=0.6643 (1485s)
+33982.0s 165 → QFE best saved (Dice=0.7789)
+33982.7s 166 [EarlyStopping] No improvement for 9/10 epochs.
+35438.7s 167 [Ep 23] QFE loss=0.6727 vl=0.7311 Dice=0.7847 IoU=0.7345 | SIN loss=0.7874 vl=0.8148 Dice=0.6870 (1456s)
+35439.2s 168 → QFE best saved (Dice=0.7847)
+35439.4s 169 → SINet best saved (Dice=0.6870)
+36868.2s 170 [Ep 24] QFE loss=0.6708 vl=0.7383 Dice=0.7598 IoU=0.7102 | SIN loss=0.7856 vl=0.7915 Dice=0.6741 (1428s)
+36868.8s 171 [EarlyStopping] No improvement for 1/10 epochs.
+36868.8s 172 [EarlyStopping] No improvement for 1/10 epochs.
+38285.4s 173 [Ep 25] QFE loss=0.6597 vl=0.7320 Dice=0.7852 IoU=0.7366 | SIN loss=0.7832 vl=0.7893 Dice=0.6495 (1416s)
+38285.8s 174 → QFE best saved (Dice=0.7852)
+38286.4s 175 [EarlyStopping] No improvement for 2/10 epochs.
+39690.9s 176 [Ep 26] QFE loss=0.6538 vl=0.7179 Dice=0.7705 IoU=0.7206 | SIN loss=0.7742 vl=0.7931 Dice=0.6776 (1404s)
+39691.5s 177 [EarlyStopping] No improvement for 1/10 epochs.
+39691.5s 178 [EarlyStopping] No improvement for 3/10 epochs.
+41101.6s 179 [Ep 27] QFE loss=0.6546 vl=0.7223 Dice=0.7599 IoU=0.7105 | SIN loss=0.7762 vl=0.7995 Dice=0.6843 (1410s)
+41102.1s 180 [EarlyStopping] No improvement for 2/10 epochs.
+41102.1s 181 [EarlyStopping] No improvement for 4/10 epochs.
+42508.8s 182 [Ep 28] QFE loss=0.6511 vl=0.7169 Dice=0.7889 IoU=0.7402 | SIN loss=0.7733 vl=0.7837 Dice=0.6557 (1406s)
+42509.3s 183 → QFE best saved (Dice=0.7889)
+42510.0s 184 [EarlyStopping] No improvement for 5/10 epochs.
